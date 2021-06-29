@@ -1,3 +1,5 @@
+package generic;
+
 /*클래스 내부에서 사용할 데이터 타입을 나중에 인스턴스를 생성할때 확정하는 것.
 * */
 class Person<T>{

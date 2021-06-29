@@ -1,3 +1,5 @@
+package generic;
+
 //인터페이스로 해도 상관 없다
 abstract class Info{
     public abstract  int getLevel();
@@ -22,6 +24,6 @@ class HumanTwo<T extends Info>{
 public class ExtendGeneric {
     public static void main(String[] args) {
         HumanTwo<EmployeeInfoTwo> p1 = new HumanTwo<EmployeeInfoTwo>(new EmployeeInfoTwo(1));
-//        HumanTwo<String> p2 = new HumanTwo<String>("부장");//컴파일 에러
+//        generic.HumanTwo<String> p2 = new generic.HumanTwo<String>("부장");//컴파일 에러
     }
 }

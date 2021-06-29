@@ -1,4 +1,4 @@
-//제네릭이 없다면 아래와 같이 만들 수 있다 하지만 info와 person은 똑같은 코드라 볼 수 있다
+package generic;//제네릭이 없다면 아래와 같이 만들 수 있다 하지만 info와 person은 똑같은 코드라 볼 수 있다
 
 class StudentInfo{
     public int grade;
