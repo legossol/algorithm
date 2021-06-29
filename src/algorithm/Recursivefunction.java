@@ -1,5 +1,5 @@
 package algorithm;
-class sum{
+class sum {
     public static int getSum(int n) {
         if (n == 1) {
             return 1;
@@ -20,7 +20,7 @@ class gugu{
     }
 }
 
-public class recursivefunction{
+public class Recursivefunction{
     public static void main(String[] args) {
         int i = sum.getSum(10);
         System.out.println(i);
