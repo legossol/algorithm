@@ -10,7 +10,7 @@ class B2 extends A{
 }
 public class ClassPolymorphism {
     public static void main(String[] args) {
-        //데이터 타입은 부모로 지정되어 있기지만
+        //데이터 타입은 부모로 지정되고 있지만 new B()로
         //자식에 오버라이딩 되어있기 때문에
         //자식의 메소드가 호출 된다.
         A obj = new B();

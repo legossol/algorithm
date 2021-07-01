@@ -10,7 +10,6 @@ public class CheckedExceptionDemo {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        String input = null;
         try {
             input = bReader.readLine();
         } catch (IOException e) {
