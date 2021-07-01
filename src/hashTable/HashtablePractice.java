@@ -50,7 +50,7 @@ public class HashtablePractice {
         //해쉬맵을 사용해서 쓰레드를 구성하면 아래와같이 쓰레드가 forEach를 수행하던 중 put으로 데이터를 집어넣으면서
         //ConcurrentModificationException에러를 뱉게된다.
         //이처럼 hashmap은 단일 쓰레드에서만 사용하는게 좋으면 멀티 쓰레드를 사용하려면 hashTable을 지향해야 한다.
-        Map<String, Integer> hm = new HashMap<>();
+        Map<String,Integer> hm = new HashMap<>();
         Runnable runnable1 = new Thread() {
             @Override
             public void run() {
