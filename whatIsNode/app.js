@@ -31,6 +31,7 @@ app.get('/api/users/:apikey/:type',async(req,res)=>{
         }
     }
     
+    
 })
 //jade
 // app.set('view engine','jade');//제이드 템플릿 엔진을 사용하겠다
@@ -107,4 +108,3 @@ app.get('/api/users/:apikey/:type',async(req,res)=>{
 //     </html>`
 //     res.send(output)
 // })
-
