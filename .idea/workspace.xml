@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00786446-15fe-4021-aaf0-5f5aea57ea1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whatIsNode/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/whatIsNode/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +136,8 @@
       <workItem from="1625056139473" duration="1529000" />
       <workItem from="1625115742307" duration="97000" />
       <workItem from="1625126708793" duration="17213000" />
-      <workItem from="1626322513579" duration="1409000" />
+      <workItem from="1626322513579" duration="4207000" />
+      <workItem from="1626594472024" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="SelectionSort">
       <created>1624196169854</created>
@@ -162,7 +162,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/algorithm/ARRAY/SelectionSort.java</url>
           <line>16</line>
-          <properties class="algorithm.ARRAY.SelectionSort" method="main">
+          <properties class="algorithm.ARRAY.SelectionSort">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
