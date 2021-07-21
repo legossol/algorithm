@@ -23,6 +23,7 @@ class Account{
         if(balance >= money){
             try{
                 Thread thread = Thread.currentThread();
+
                 System.out.println(thread.getName() + " 출금 금액 ->> "+money);
                 Thread.sleep(1000);
                 balance -= money;
