@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00786446-15fe-4021-aaf0-5f5aea57ea1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithmJAVA/src/hashSet/SetSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,11 @@
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algorithmJAVA/src" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.HashTableAlgorithm">
     <configuration name="HashTableAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -109,6 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.HashTableAlgorithm" />
@@ -138,6 +155,7 @@
       <workItem from="1625126708793" duration="17213000" />
       <workItem from="1626322513579" duration="4207000" />
       <workItem from="1626594472024" duration="28000" />
+      <workItem from="1630748758645" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="SelectionSort">
       <created>1624196169854</created>
